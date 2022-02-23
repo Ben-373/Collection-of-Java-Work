@@ -1,11 +1,9 @@
 // Program Name: Circle.java
 /* Description: 16.4 Program It: Circle Class */
-// Programmer: Benjamin Clapp
+// Programmer: 
 // Date: 1/16/2021
 /**
- * Preference file version 092020
  * 
- * @author: Benjamin Clapp
  */
 
 public class Circle
